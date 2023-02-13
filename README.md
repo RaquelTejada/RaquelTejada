@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Raquel Tejada!
 
-### A Full Stack Developer 🙂
+### A Full Stack Web Developer 🙂
 
 <!--
 **RaquelTejada/RaquelTejada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,4 +11,4 @@
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Art
 - 📫 How to reach me: tejadadejesusraquel@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Let's connect on [LinkedIn](https://www.linkedin.com/in/raquel-tejada/)
