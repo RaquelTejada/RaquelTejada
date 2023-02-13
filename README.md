@@ -1,6 +1,6 @@
-![MasterHead](https://i.imgur.com/pd2fRhq.jpg)
-<h1 align="center">Hi everyone 👋 </br>
-I'm Raquel Tejada</h1>
+![MasterHead]([https://i.imgur.com/pd2fRhq.jpg](https://c4.wallpaperflare.com/wallpaper/74/374/372/colorful-minimalism-windows-10-pastel-shapes-hd-wallpaper-thumb.jpg))
+<h1 align="center">Hi everyone 👋 </h1>
+<h2 align="center">I'm Raquel Tejada</h2>
 <h3 align="center">A Full Stack Web Developer 🙂</h3>
 
 <p><br><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=3ryuusei3&show_icons=true&locale=en&layout=compact" alt="3ryuusei3" /></p>
