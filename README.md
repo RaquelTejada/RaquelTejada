@@ -1,4 +1,3 @@
-![MasterHead]([https://i.imgur.com/pd2fRhq.jpg](https://c4.wallpaperflare.com/wallpaper/74/374/372/colorful-minimalism-windows-10-pastel-shapes-hd-wallpaper-thumb.jpg)
 <h1 align="center">Hi everyone 👋 </h1>
 <h2 align="center">I'm Raquel Tejada</h2>
 <h3 align="center">A Full Stack Web Developer 🙂</h3>
