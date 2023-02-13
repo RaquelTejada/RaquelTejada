@@ -1,5 +1,4 @@
-<h1 align="center">Hi everyone 👋 </h1>
-<h2 align="center">I'm Raquel Tejada</h2>
+<h1 align="center">Hi everyone 👋, I'm Raquel Tejada </h1>
 <h3 align="center">A Full Stack Web Developer 🙂</h3>
 
 <p><br><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=3ryuusei3&show_icons=true&locale=en&layout=compact" alt="3ryuusei3" /></p>
