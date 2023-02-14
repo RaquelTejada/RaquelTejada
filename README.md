@@ -14,6 +14,7 @@
 - 📫 How to reach me: tejadadejesusraquel@gmail.com
 - ⚡ Let's connect on [LinkedIn](https://www.linkedin.com/in/raquel-tejada/)
 
+</br>
 <h3 align="center">Skills:</h3>
 
 <div align="center">
