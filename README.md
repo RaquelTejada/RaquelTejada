@@ -15,9 +15,7 @@
 - ⚡ Let's connect on [LinkedIn](https://www.linkedin.com/in/raquel-tejada/)
 
 </br>
-<h3 align="center">Skills:</h3>
-
-<div align="center">
+<h3>Skills:</h3>
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
