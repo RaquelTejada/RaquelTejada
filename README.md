@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone 👋, I'm Raquel Tejada </h1>
 <h3 align="center">A Full Stack Web Developer 🙂</h3>
 
-<p><br><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=3ryuusei3&show_icons=true&locale=en&layout=compact" alt="3ryuusei3" /></p>
+<p><br><img align="right" src="https://assets-global.website-files.com/5e9aa66fd3886aa2b4ec01ca/5fa5462124f6db4a79de1899_webdevelopercoding.gif" /></p>
 
 <!--
 **RaquelTejada/RaquelTejada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
