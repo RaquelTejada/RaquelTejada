@@ -7,14 +7,6 @@
 **RaquelTejada/RaquelTejada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on [Vegetta777.](https://github.com/RaquelTejada/vegetta777-client)
-- 🌱 I’m currently learning Next.js
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about Art
-- 📫 How to reach me: tejadadejesusraquel@gmail.com
-- ⚡ Let's connect on [LinkedIn](https://www.linkedin.com/in/raquel-tejada/)
-
-</br>
 <h3>Skills:</h3>
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -27,3 +19,10 @@
 <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"></code>
  
 </div>
+
+- 🔭 I’m currently working on [Vegetta777.](https://github.com/RaquelTejada/vegetta777-client)
+- 🌱 I’m currently learning Next.js
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about Art
+- 📫 How to reach me: tejadadejesusraquel@gmail.com
+- ⚡ Let's connect on [LinkedIn](https://www.linkedin.com/in/raquel-tejada/)
