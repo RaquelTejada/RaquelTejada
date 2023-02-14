@@ -18,7 +18,7 @@
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"></code>
  
-</div>
+<hr>
 
 - 🔭 I’m currently working on [Vegetta777.](https://github.com/RaquelTejada/vegetta777-client)
 - 🌱 I’m currently learning Next.js
