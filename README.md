@@ -3,7 +3,7 @@
 
 <Row>
 <Col>
-<br><img align="right" margin-top= "2" src="https://media.tenor.com/41I-iMyClCgAAAAM/programmer-programming.gif" />
+<br><img align="right" margin-top= "30px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--m3URvSiV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/km2w1ppw3yw9pd9na7mu.gif" />
  </Col>
  
  <Col>
