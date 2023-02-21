@@ -1,8 +1,7 @@
 <h1 align="center">Hi everyone 👋, I'm Raquel Tejada </h1>
 <h3 align="center">A Full Stack Web Developer 🙂</h3>
 
-<!-- <p><br><img align="right" src="https://assets-global.website-files.com/5e9aa66fd3886aa2b4ec01ca/5fa5462124f6db4a79de1899_webdevelopercoding.gif" /></p> -->
-
+<p><br><img align="right" src="https://assets-global.website-files.com/5e9aa66fd3886aa2b4ec01ca/5fa5462124f6db4a79de1899_webdevelopercoding.gif" /></p>
 <h3>Skills:</h3>
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
