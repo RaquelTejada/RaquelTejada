@@ -1,8 +1,9 @@
 <h1 align="center">Hi everyone 👋, I'm Raquel Tejada </h1>
 <h3 align="center">A Full Stack Web Developer 🙂</h3>
 
-<br><img align="right" margin-top= "30px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--m3URvSiV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/km2w1ppw3yw9pd9na7mu.gif" />
- 
+
+<img margin-top= "30px" width= "450" align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--m3URvSiV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/km2w1ppw3yw9pd9na7mu.gif" />
+
 <h3 margin-top= "0">Skills:</h3>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
