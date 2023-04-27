@@ -17,7 +17,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"></code>
 <hr>
 
-- 🔭 I’m currently doing Java Ironhack Bootcamp (https://github.com/RaquelTejada?tab=repositories)
+- 🔭 I’m currently doing Java Ironhack Bootcamp
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Art
