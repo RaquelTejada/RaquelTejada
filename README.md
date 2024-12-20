@@ -21,9 +21,9 @@
 <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"></code>
 <hr>
 
-- 🔭 I’m currently doing Angular projects.
-- 🌱 I’m currently learning Google Cloud Platform.
-- 👯 I’m looking to collaborate on open source projects
+- 🔭 I’m currently doing React projects.
+- 🌱 I’m learning Google Cloud Platform.
+- 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about Art
 - 📫 How to reach me: tejadadejesusraquel@gmail.com
 - ⚡ Let's connect on [LinkedIn](https://www.linkedin.com/in/raquel-tejada/)
